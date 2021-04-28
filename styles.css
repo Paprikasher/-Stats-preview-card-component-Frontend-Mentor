@@ -120,11 +120,9 @@
   .stats {
     color: hsla(0, 0%, 100%, 0.6);
     font-family: 'Lexend Deca', sans-serif;
-    font-size: 5px;
+    font-size: 10px;
     margin-bottom: 30px;
     font-weight: lighter;
-    -webkit-text-size-adjust: none;
-    text-size-adjust: none;
   }
   .bottom_container{
     margin-top: 40px;
